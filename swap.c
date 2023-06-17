@@ -10,6 +10,7 @@ int main(void)
 
     // swapping...
     int temp = x;
+    int v = 5;
     x = y;
     y = temp;
 
